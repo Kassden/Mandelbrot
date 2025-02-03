@@ -108,6 +108,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-- Inspired by the mathematical beauty of fractals thank, thank you Mandelbrot.
+- Inspired by the mathematical beauty of fractals thank you Mandelbrot.
 - Built on the shoulders of the Three.js and Next.js communities
 - Special thanks to Benoit Mandelbrot and Daniel White
